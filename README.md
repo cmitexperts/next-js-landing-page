@@ -33,6 +33,10 @@ Visit us at [www.cmitexperts.com](https://www.cmitexperts.com)
 
 ## Getting Started
 
+### Preview
+
+![Landing Page Preview](screenshot1.png)
+
 ### Prerequisites
 
 - Node.js 18.0.0 or later
